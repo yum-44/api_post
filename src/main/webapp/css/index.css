@@ -1,0 +1,36 @@
+a.btn_09 {
+    display: block;
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+    width: 180px;
+    height:20px;
+    margin: auto;
+    padding: 1rem 2rem;
+    font-weight: bold;
+    background: linear-gradient(to top, rgb(5, 130, 174), #27acd9);
+    color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .2);
+    -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, .2);
+    transition: 0.5s;
+}
+
+a.btn_09:hover {
+    color: #fff;
+    opacity: 0.5;
+}
+#title {
+    display:block;
+    font-size:45px;
+    text-align:center;
+}
+.subTitle {
+    display:block;
+    font-size:20px;
+    text-align:center;
+}
+.prompt {
+    display:block;
+    font-size:15px;
+    text-align:center;
+}

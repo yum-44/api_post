@@ -1,0 +1,34 @@
+[name="response"]{
+    border:5px double #CCC;
+    padding:10px;
+    border-radius:10px;
+    background:#EEE;
+}
+
+#title {
+    font-size:2.5em;
+    text-align:center;
+}
+
+a.btn_09 {
+    width: 250px;
+    max-width: 100%;
+    padding: 15px 50px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    background: linear-gradient(to top, rgb(5, 130, 174), #27acd9);
+    color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .2);
+    -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, .2);
+    transition: 0.5s;
+}
+
+a.btn_09:hover {
+    color: #fff;
+    opacity: 0.5;
+}
+.back_button {
+    text-align:center;
+    margin-bottom:80px;
+}
